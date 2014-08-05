@@ -1,0 +1,1 @@
+<div class="left"><a href="<?php echo current_base_url();?>"><img src="<?php echo static_files_url(); ?>images/logo.png" alt="" /></a></div>
